@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06c35dda650fbe4d82be49f72e8ec33, type: 3}
+  m_Name: Skellys with support
+  m_EditorClassIdentifier: 
+  completeWave:
+    enemies:
+    - numEnemies: 20
+      enemyPrefab: {fileID: 4487763485741116213, guid: 0e3844b391c0bad4189e2959ce5ecc99, type: 3}
+    - numEnemies: 20
+      enemyPrefab: {fileID: 4487763485741116213, guid: 523376cc2733ab04b93312b0a4585033, type: 3}
+    - numEnemies: 10
+      enemyPrefab: {fileID: 4487763485741116213, guid: 11909af5d4e25504bbfeed8305afee0e, type: 3}
+    - numEnemies: 10
+      enemyPrefab: {fileID: 4487763485741116213, guid: 83e11b6b8866866449fd2ce995759724, type: 3}
+    - numEnemies: 3
+      enemyPrefab: {fileID: 4487763485741116213, guid: d7b729d40780a1040817ad5a4023034a, type: 3}
+    timeToStart: 3
+    isBoss: 0

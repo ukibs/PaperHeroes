@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de33543aef0aaf4e96abd047b72d20a, type: 3}
+  m_Name: Tower of Doom
+  m_EditorClassIdentifier: 
+  waves: []
+  prefabWaves:
+  - {fileID: 11400000, guid: 8d1d1ecb701a0c64cbe4ea6cea08c07c, type: 2}
+  - {fileID: 11400000, guid: ed60135f81b5c034ab76dafa5744856a, type: 2}
+  - {fileID: 11400000, guid: f6a9f60efac51164f94ac928820c56c7, type: 2}
+  - {fileID: 11400000, guid: 0b7036e9c644df5409ba01ab2143d5b4, type: 2}
+  - {fileID: 11400000, guid: 508c4016cf68be94ca04cae6d62fc1d7, type: 2}
+  - {fileID: 11400000, guid: 5f543786f0b49204cbe94366346a61a4, type: 2}
+  - {fileID: 11400000, guid: 23e6668f050960343afd0eb90a3e4754, type: 2}
+  usePrefabOnes: 1

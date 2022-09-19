@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de33543aef0aaf4e96abd047b72d20a, type: 3}
+  m_Name: Rabbin Rabids
+  m_EditorClassIdentifier: 
+  waves:
+  - enemies:
+    - numEnemies: 20
+      enemyPrefab: {fileID: 4487763485741116213, guid: 0e3844b391c0bad4189e2959ce5ecc99, type: 3}
+    - numEnemies: 1
+      enemyPrefab: {fileID: 4487763485741116213, guid: e02e04c428bc71b4e9d22a233cf858da, type: 3}
+    timeToStart: 3
+    isBoss: 0
+  - enemies:
+    - numEnemies: 10
+      enemyPrefab: {fileID: 4487763485741116213, guid: b23cd6d7fe7658a4592fcaa8a1b6f8b6, type: 3}
+    - numEnemies: 3
+      enemyPrefab: {fileID: 4487763485741116213, guid: e02e04c428bc71b4e9d22a233cf858da, type: 3}
+    timeToStart: 20
+    isBoss: 0

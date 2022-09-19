@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7aa9badc90222b4487752774d760139, type: 3}
+  m_Name: Darkest Starving
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: ca040d68e829dec459b2266dbb244d59, type: 2}
+  - {fileID: 11400000, guid: 45fe9a83762f77e4aa05a8a0bbe8dd81, type: 2}
+  - {fileID: 11400000, guid: 6498dbb6152add846a69aee4cfd48bd8, type: 2}
+  - {fileID: 11400000, guid: a8e57fd832555844cb617e6fa578e019, type: 2}
+  abilities:
+  - {fileID: 11400000, guid: 38f7349a1ce565a4db8230f9327dd63d, type: 2}
+  - {fileID: 11400000, guid: a81f4d94738d12a468bdd1cc68b29baa, type: 2}
+  - {fileID: 11400000, guid: ede14d42e70a3e74784b4a005a0aec95, type: 2}
+  - {fileID: 11400000, guid: 4f486a0301a9e4a4e9ece4fbeb3dd137, type: 2}

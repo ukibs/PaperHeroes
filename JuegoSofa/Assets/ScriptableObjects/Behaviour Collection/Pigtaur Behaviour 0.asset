@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a629ac2b5a5eb2441a216bc2283b45c0, type: 3}
+  m_Name: Pigtaur Behaviour 0
+  m_EditorClassIdentifier: 
+  behaviours:
+  - type: 1
+    minDistance: 30
+    amount: 15
+    rateOfFire: 0.5
+    angle: 15
+    stopHere: 0
+    prefab: {fileID: 2112763234415754147, guid: fab5755d66a8c1240854536f399f8e80, type: 3}
+    cooldown: 0.1731768
+  - type: 4
+    minDistance: 30
+    amount: 1
+    rateOfFire: 5
+    angle: 0
+    stopHere: 0
+    prefab: {fileID: 3451537226114425658, guid: b55e97c7c3bc7f24799c7c6618f904cd, type: 3}
+    cooldown: 1.86235
+  - type: 4
+    minDistance: 50
+    amount: 1
+    rateOfFire: 3
+    angle: 0
+    stopHere: 0
+    prefab: {fileID: 7761720671129749186, guid: 7340493f68d124f4f9eb9cd57635337b, type: 3}
+    cooldown: 1.2945724
+  - type: 4
+    minDistance: 0
+    amount: 2
+    rateOfFire: 0
+    angle: 0
+    stopHere: 0
+    prefab: {fileID: 8363686744608914297, guid: 2e6173d8a7cab8e4d942033083394b8b, type: 3}
+    cooldown: 0
+  - type: 1
+    minDistance: 0
+    amount: 2
+    rateOfFire: 0
+    angle: 0
+    stopHere: 0
+    prefab: {fileID: 2112763234415754147, guid: 4496fdd252574db428aa706a424fb608, type: 3}
+    cooldown: 0
+  - type: 0
+    minDistance: 30
+    amount: 15
+    rateOfFire: 2
+    angle: 15
+    stopHere: 0
+    prefab: {fileID: 0}
+    cooldown: 0

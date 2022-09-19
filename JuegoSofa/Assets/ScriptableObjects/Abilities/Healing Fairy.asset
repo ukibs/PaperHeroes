@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f610ef48216298498253efd5ebd85db, type: 3}
+  m_Name: Healing Fairy
+  m_EditorClassIdentifier: 
+  type: 0
+  prefab: {fileID: 2616973790168112744, guid: 00cb2479799bd94459d0de47af8a287c, type: 3}
+  cooldown: 30
+  icon: {fileID: 2800000, guid: 70f3bd3969c32844291fdf8e1f674c55, type: 3}
+  description: A little fairy the moves randomly and heals over time

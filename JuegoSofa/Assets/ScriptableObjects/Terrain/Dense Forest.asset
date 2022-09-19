@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b434a9ea65f1b7b4da2f55d2334271e3, type: 3}
+  m_Name: Dense Forest
+  m_EditorClassIdentifier: 
+  maxXyDistance: 40
+  treePrefabs:
+  - {fileID: 7143460878501421197, guid: 663ccb92bed640b4bbaae1ab59b38bc9, type: 3}
+  - {fileID: 7975108774965374436, guid: cc21b9e8afc68ae4492827e5cd2ac249, type: 3}
+  - {fileID: 3586147100357803479, guid: a34d98361cb5ef04b9ab99b2eb47b5f2, type: 3}
+  numTrees: 200
+  bushPrefabs:
+  - {fileID: 581018749170375739, guid: dc84370e43d274e4ca4a90034956f721, type: 3}
+  numBushes: 200
+  grassPrefabs:
+  - {fileID: 6867715429465079961, guid: 9034f89f0c0748143ab930911b8f7baa, type: 3}
+  numGrass: 10000

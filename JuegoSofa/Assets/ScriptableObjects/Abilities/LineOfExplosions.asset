@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f610ef48216298498253efd5ebd85db, type: 3}
+  m_Name: LineOfExplosions
+  m_EditorClassIdentifier: 
+  type: 0
+  prefab: {fileID: 3451537226114425658, guid: b55e97c7c3bc7f24799c7c6618f904cd, type: 3}
+  cooldown: 6
+  icon: {fileID: 2800000, guid: cea5ffe4e98f0dc458dd4702704cf2dc, type: 3}
+  description: Line of explosions

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a629ac2b5a5eb2441a216bc2283b45c0, type: 3}
+  m_Name: Krab Behaviour 0
+  m_EditorClassIdentifier: 
+  behaviours:
+  - type: 1
+    minDistance: 30
+    amount: 15
+    rateOfFire: 0.5
+    angle: 15
+    stopHere: 0
+    prefab: {fileID: 2112763234415754147, guid: fab5755d66a8c1240854536f399f8e80, type: 3}
+    cooldown: 0.1028845
+  - type: 4
+    minDistance: 10
+    amount: 0
+    rateOfFire: 3
+    angle: 0
+    stopHere: 1
+    prefab: {fileID: 288598695854346359, guid: 17618630d6e70654aa3f2c5b17e97c14, type: 3}
+    cooldown: 2.804981
+  - type: 4
+    minDistance: 50
+    amount: 1
+    rateOfFire: 10
+    angle: 0
+    stopHere: 0
+    prefab: {fileID: 8363686744608914297, guid: ee814ae791f9e874eb307a9baa35cd97, type: 3}
+    cooldown: 0
+  - type: 1
+    minDistance: 30
+    amount: 15
+    rateOfFire: 1
+    angle: 15
+    stopHere: 0
+    prefab: {fileID: 2112763234415754147, guid: 4496fdd252574db428aa706a424fb608, type: 3}
+    cooldown: 0
+  - type: 0
+    minDistance: 0
+    amount: 4
+    rateOfFire: 0
+    angle: 0
+    stopHere: 0
+    prefab: {fileID: 0}
+    cooldown: 0
